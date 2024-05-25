@@ -29,7 +29,3 @@ Install all dependencies with - npm install
 Compile the contract using Hardhat - npx hardhat compile
 Run deployment script- npx hardhat run scripts/deploy.js
 Interact with the deployed contract through transactions like transfers, minting, and burning.
-
-## Author
-Banwo Olorunsogo 
-Twitter: @olorunsogobanwo 
